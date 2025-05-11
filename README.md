@@ -80,7 +80,7 @@ To deploy the project:
 - Deploy the app and access it via the provided URL.
 
 
-Contributing
+# Contributing
 - Contributions are welcome! Please follow these steps:
 - Fork the repository.
 - Create a new branch (git checkout -b feature-name).
