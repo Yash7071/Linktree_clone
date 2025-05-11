@@ -1,27 +1,27 @@
-LinkTree Clone
+# LinkTree Clone
 
 A fully functional LinkTree clone built with Next.js and Tailwind CSS. This project allows users to create a customizable, mobile-friendly page to share multiple links in one place, similar to LinkTree.
 
-Features
+# Features
 
 - Customizable Link Page: Add, edit, and organize links with a clean, user-friendly interface.
 - Fast & SEO-Friendly: Built with Next.js for server-side rendering and optimal performance.
 - Easy Deployment: Ready to deploy on Vercel, Netlify, or any platform supporting Next.js.
 
-Tech Stack
+# Tech Stack
 
 - Frontend: Next.js (React Framework)
 - Styling: Tailwind CSS
 - Deployment: Configured for Vercel (recommended) or other platforms
 - Node.js: For development and build processes
 
-Getting Started
+# Getting Started
 
 Prerequisites
 Node.js (v16 or higher)
 npm or yarn
 
-Installation
+# Installation
 
 
 Clone the repository:
@@ -71,7 +71,7 @@ or
 yarn start
 ```
 
-Deployment
+# Deployment
 
 To deploy the project:
 - Push your code to a GitHub repository.
